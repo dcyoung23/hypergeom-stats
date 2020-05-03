@@ -1,0 +1,17 @@
+# .DS_Store
+.DS_Store
+
+# Editor
+.vscode
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+
+# Misc project files to exclude
+Hypergeometric Stats Plots.Rmd
+Hypergeometric_Stats_Plots.html
+Hypergeometric_Stats_Plots.pdf
